@@ -394,3 +394,17 @@ a.inline-link {
     color: $gray-900;
   }
 }
+// MIT-Residential changes
+.course-card {
+  .card {
+    .btn-outline-primary {
+      display: None;
+    }
+  }
+}
+
+#looking-for-challenge-widget {
+  display: None;
+}
+
+
