@@ -1,7 +1,7 @@
 {
   "name": "@mitol/brand-mitol-residential",
   "version": "1.0.0",
-  "description": "A package containing brand elements and SASS themes for MIT Residential",
+  "description": "A package containing brand elements and SASS themes for Residential MITx",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mitodl/brand-mitol-residential.git"
